@@ -3,6 +3,10 @@
 
 Simple file browser built with Laravel and Vue.
 
+## Requirements
+- php 7.1.x
+- node 10.x.x
+
 ## Installation
 
 1. Clone this repository to your machine.
